@@ -1,0 +1,5 @@
+form {
+  > input,textarea,select {
+    display: block;
+  }
+}
